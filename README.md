@@ -1,2 +1,2 @@
 # Revising-Git-GitHub
-Starting Oopen source contributions again.
+Starting Open source contributions again.
